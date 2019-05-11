@@ -37,7 +37,7 @@ public class SalvadorJimenez {
                 precio[i] + "\n";
            
     }
-        JOptionPane.showMessageDialog(null,detalle + " \n TOTAL GENERAL DE PAGO DE PLANILLA ES: $" +total);
+        JOptionPane.showMessageDialog(null,detalle + " \n TOTAL GENERALL DE PAGO DE PLANILLA ES: $" +total);
     }
         
     }
